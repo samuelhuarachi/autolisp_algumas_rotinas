@@ -1,4 +1,1 @@
-BF Dias
-=========
-
-Lisps desenvolvidos para a BF Dias
+Alguns código em Autolisp, da época que eu programava para autocad
